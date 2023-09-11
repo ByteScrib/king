@@ -22,8 +22,8 @@ def get_info():
         'Current_day_of_week': day_of_week,
         'Current_UTC_time': utc_time.isoformat(),
         'Track': track,
-        'GitHub_URL_of_file': 'https://github.com/Myles181/project/blob/main/app.py',
-        'GitHub_URL_of_source_code': 'https://github.com/Myles181/proeject',
+        'GitHub_URL_of_file': 'https://github.com/ByteScrib/king/blob/main/backend/app.py',
+        'GitHub_URL_of_source_code': 'https://github.com/ByteScrib/king',
         'Status_Code': 'Success'
     }
 
